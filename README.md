@@ -15,3 +15,39 @@ The React Compiler is not enabled on this template because of its impact on dev 
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
 
+=================================================
+   STUDENT RECORD MANAGEMENT SYSTEM
+=================================================
+1. Add Student
+2. View All Students
+3. Search Student
+4. Update Student
+5. Delete Student
+6. Exit
+=================================================
+Enter your choice (1-6): 2
+
+--- All Student Records ---
+--------------------------------------------------
+Student ID : S001
+Name       : Jitesh Vishwakarma
+Age        : 20
+Course     : MCA
+Email      : jitesh@example.com
+Marks      : 85
+--------------------------------------------------
+Student ID : S002
+Name       : Prajwal Bhosle
+Age        : 21
+Course     : MCA
+Email      : prajwal@example.com
+Marks      : 80
+--------------------------------------------------
+Student ID : S003
+Name       : Keshav Sahu
+Age        : 20
+Course     : MCA
+Email      : keshav@example.com
+Marks      : 75
+--------------------------------------------------
+Total records: 3
